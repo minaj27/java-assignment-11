@@ -1,0 +1,33 @@
+.main{
+    background-color: lightyellow;
+    width:100%
+    height: 600px;
+    text-align: center;
+    margin: auto;
+}
+#show{
+    height: 200px;
+    width: 200px;
+    border: 5px solid blue;
+    border-radius: 50%;
+    margin: auto;
+    background-color: pink;
+    box-shadow: 10px 10px 10px;
+}
+h1{
+    text-align: center;
+    margin-top: 70px;
+}
+button{
+    padding: 7px;
+    margin: 20px;
+    text-align: center;
+    border-radius: 50%;
+    padding: 20px;
+    border: none;
+    background-color: rgb(165,215,65);
+    box-shadow: 10px 10px 10px;
+}
+button:hover{
+    background-color: rgb(230,130,59);
+}
